@@ -1,0 +1,9 @@
+.base {
+   border: none;
+   border-radius: 7px;
+   padding: 15px 10px;
+
+   &:focus {
+      outline: none;
+   }
+}

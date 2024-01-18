@@ -1,0 +1,16 @@
+.boxSearch {
+  display: flex;
+  width: 40%;
+
+  .buttonSearch {
+    border-radius: 0 7px 7px 0;
+    background-color: #eb6f4c;
+  }
+
+  .inputSearch {
+    border-radius: 7px 0 0 7px;
+    width: 100%;
+    font-size: 18px;
+    font-weight: 300;
+  }
+}
