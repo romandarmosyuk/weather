@@ -1,16 +1,16 @@
 .header {
-   background-color: #343A40;
-   padding: 30px 0;
+  background-color: #343a40;
+  padding: 30px 0;
 
-   .container {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      
-         .buttonTemp {
-            max-width: 15%;
-            width: 100%;
-            align-self: stretch;
-         }
-   }
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .buttonTemp {
+      max-width: 15%;
+      width: 100%;
+      align-self: stretch;
+    }
+  }
 }
